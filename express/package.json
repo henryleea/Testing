@@ -1,0 +1,20 @@
+{
+  "name": "nlp",
+  "version": "1.0.0",
+  "description": "BWM NLP demo",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "li heng",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "express": "^4.16.2",
+    "log4js": "^2.5.1",
+    "method-override": "^2.3.10"
+  }
+}
